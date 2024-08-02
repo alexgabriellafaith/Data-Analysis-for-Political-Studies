@@ -26,12 +26,3 @@ https://projects.fivethirtyeight.com/biden-approval-rating/
 http://data.un.org/Data.aspx?q=gini&d=WDI&f=Indicator_Code%3aSI.POV.GINI
 https://www.macrotrends.net/countries/GBR/united-kingdom/gdp-gross-domestic-product
 https://www.macrotrends.net/countries/USA/united-states/gdp-gross-domestic-product
-
-
-
-## Individual contributions
-Alex: Web scraping, hidden API data, API data, Altair graphs for the relative notebooks, graph analysing, GitHub organisation, editing of GitHub website
-
-Ayse: Web scraping, Altair graphs for relative notebooks, README file, graph analysing, writing on GitHub website, GitHub organisation
-
-Maddox: Website creation and editing, Altair graphs editing, notebook editing, Github organisation ](https://medium.com/cloud-native-the-gathering/how-to-mirror-copy-an-entire-existing-git-repository-into-a-new-one-3bb8faefad9e)
