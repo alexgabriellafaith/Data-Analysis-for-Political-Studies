@@ -1,4 +1,7 @@
-# DS105A Final Project 🔓
+# Political Insights: Interactive Data Visualization for Students
+As Politics and Data Science students at LSE, we struggle the politics related data being stored in ways which are hard to interpret such as regression tables or excel files, which makes finding data for essays a very tedious process. Therefore, we sought out a website that is a source of easy to interpret data, that can also be customised to create interactive correlation graphs with simple descriptions underneath the graphs themselves in the USA/UK/Global data portion of the website.
+
+The descriptions help politics students, with no formal quatative skills, to make better anaylses for data summarisation. The data collected is political data focused on the USA, the UK, and global data to find more in depth sources to make graphs with interchangable variables.
 
 ## How to run the code in the notebooks:
 
@@ -8,9 +11,7 @@ Before running any notebooks ensure to install the requirements.txt file in term
 
 Then begin running notebooks as ordered, each should create a new csv file under the Data folder. The final notebook will create a database that will be used in order to create the website. Once the database is created, you can access the website by running the following common in terminal: streamlit run webstream.py.
 
-## URL for each source we used:
-These can also be located under each graph on both websites
-
+## Sources:
 https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area
 https://aspe.hhs.gov/information-poverty-income-statistics-tables
 https://www.theguardian.com/news/datablog/2010/may/06/general-election-2010-turnout-since-1945
@@ -33,4 +34,4 @@ Alex: Web scraping, hidden API data, API data, Altair graphs for the relative no
 
 Ayse: Web scraping, Altair graphs for relative notebooks, README file, graph analysing, writing on GitHub website, GitHub organisation
 
-Maddox: Website creation and editing, Altair graphs editing, notebook editing, Github organisation 
+Maddox: Website creation and editing, Altair graphs editing, notebook editing, Github organisation ](https://medium.com/cloud-native-the-gathering/how-to-mirror-copy-an-entire-existing-git-repository-into-a-new-one-3bb8faefad9e)
