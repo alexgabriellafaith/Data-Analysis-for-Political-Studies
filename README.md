@@ -1,5 +1,5 @@
 # Political Insights: Interactive Data Visualization for Students
-As Politics and Data Science students at LSE, we struggle the politics related data being stored in ways which are hard to interpret such as regression tables or excel files, which makes finding data for essays a very tedious process. Therefore, we sought out a website that is a source of easy to interpret data, that can also be customised to create interactive correlation graphs with simple descriptions underneath the graphs themselves in the USA/UK/Global data portion of the website.
+As a Politics and Data Science student at LSE, I noticed my peers struggled with political data being stored in ways which are hard to interpret such as regression tables or excel files; which makes finding data for essays a very tedious process. Therefore, I began creating a website that is a source of easy to interpret data, that can also be customised to create interactive correlation graphs with real time data.
 
 The descriptions help politics students, with no formal quatative skills, to make better anaylses for data summarisation. The data collected is political data focused on the USA, the UK, and global data to find more in depth sources to make graphs with interchangable variables.
 
